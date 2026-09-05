@@ -8,6 +8,12 @@
 
 </div>
 
+<img
+  src="./assets/math-animation.gif"
+  width="450"
+  alt="Butterfly Curve sendo desenhada"
+/>
+
 Hey! 👋
 
 Sou estudante de Ciência da Computação e gosto de entender como as coisas
