@@ -25,28 +25,6 @@ bancos de dados, redes e infraestrutura.
 
 ---
 
-## ⚙️ O que eu uso
-
-`JavaScript` · `Node.js` · `React` · `SQL` · `MongoDB` · `Git`
-
-`Linux` · `Windows` · `PowerShell`
-
----
-
-## 🧪 Alguns projetos
-
-### ✦ Yui
-
-Assistente portátil de diagnóstico para ambientes Windows, criado para
-automatizar coleta de informações e auxiliar na investigação de problemas
-técnicos.
-
-> Node.js • PowerShell • APIs • Cloudflare Tunnel
-
-[Ver projeto →](LINK)
-
----
-
 ## 📫 Onde me encontrar
 
 <a href="https://www.linkedin.com/in/yuuki-kamiya-b67941363/">
