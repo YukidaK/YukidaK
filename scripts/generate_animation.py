@@ -50,11 +50,14 @@ y = np.cos(t) * factor
 # Figura
 # ---------------------------------------------------------
 
-fig, ax = plt.subplots(figsize=(6, 6), facecolor="none")
+BG_COLOR = "#0d1117"
+
+fig, ax = plt.subplots(figsize=(6, 6), facecolor=BG_COLOR)
 
 ax.set_aspect("equal")
 ax.axis("off")
-ax.set_facecolor("none")
+ax.set_facecolor(BG_COLOR)
+ax.patch.set_facecolor(BG_COLOR)
 
 margin = 0.5
 
@@ -63,10 +66,22 @@ ax.set_ylim(y.min() - margin, y.max() + margin)
 
 
 # Linha já desenhada
-line, = ax.plot([], [], linewidth=2, color="#58a6ff")
+line, = ax.plot(
+    [],
+    [],
+    linewidth=2,
+    color="#58a6ff"
+)
+
 
 # Ponto que acompanha a animação
-point, = ax.plot([], [], marker="o", markersize=4, color="#ffa657")
+point, = ax.plot(
+    [],
+    [],
+    marker="o",
+    markersize=4,
+    color="#ffa657"
+)
 
 
 # ---------------------------------------------------------
@@ -122,7 +137,10 @@ animation.save(
     OUTPUT_FILE,
     writer=writer,
     dpi=100,
-    savefig_kwargs={"transparent": True, "facecolor": "none"}
+    savefig_kwargs={
+        "facecolor": BG_COLOR,
+        "edgecolor": BG_COLOR
+    }
 )
 
 plt.close(fig)
