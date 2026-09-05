@@ -50,10 +50,11 @@ y = np.cos(t) * factor
 # Figura
 # ---------------------------------------------------------
 
-fig, ax = plt.subplots(figsize=(6, 6))
+fig, ax = plt.subplots(figsize=(6, 6), facecolor="#0d1117")
 
 ax.set_aspect("equal")
 ax.axis("off")
+ax.set_facecolor("#0d1117")
 
 margin = 0.5
 
@@ -62,10 +63,10 @@ ax.set_ylim(y.min() - margin, y.max() + margin)
 
 
 # Linha já desenhada
-line, = ax.plot([], [], linewidth=2)
+line, = ax.plot([], [], linewidth=2, color="#58a6ff")
 
 # Ponto que acompanha a animação
-point, = ax.plot([], [], marker="o", markersize=4)
+point, = ax.plot([], [], marker="o", markersize=4, color="#ffa657")
 
 
 # ---------------------------------------------------------
@@ -121,6 +122,7 @@ animation.save(
     OUTPUT_FILE,
     writer=writer,
     dpi=100,
+    savefig_kwargs={"facecolor": "#0d1117"}
 )
 
 
