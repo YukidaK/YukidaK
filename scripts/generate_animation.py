@@ -50,11 +50,11 @@ y = np.cos(t) * factor
 # Figura
 # ---------------------------------------------------------
 
-fig, ax = plt.subplots(figsize=(6, 6), facecolor="#0d1117")
+fig, ax = plt.subplots(figsize=(6, 6), facecolor="none")
 
 ax.set_aspect("equal")
 ax.axis("off")
-ax.set_facecolor("#0d1117")
+ax.set_facecolor("none")
 
 margin = 0.5
 
@@ -122,9 +122,8 @@ animation.save(
     OUTPUT_FILE,
     writer=writer,
     dpi=100,
-    savefig_kwargs={"facecolor": "#0d1117"}
+    savefig_kwargs={"transparent": True, "facecolor": "none"}
 )
-
 
 plt.close(fig)
 
