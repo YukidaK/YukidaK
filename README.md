@@ -10,7 +10,7 @@
 
 <img
   src="./assets/math-animation.gif"
-  width="450"
+  width="300"
   alt="Butterfly Curve sendo desenhada"
 />
 
