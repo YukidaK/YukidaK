@@ -9,19 +9,31 @@
 </div>
 
 <img
+  align="left"
   src="./assets/math-animation.gif"
   width="300"
   alt="Butterfly Curve sendo desenhada"
 />
 
-Hey! 👋
+### Entre código e cabos
 
-Sou estudante de Ciência da Computação e gosto de entender como as coisas
-funcionam — seja uma aplicação, uma rede, um computador ou alguma coisa
-completamente aleatória que chamou minha atenção às 2 da manhã.
+Gosto de entender tecnologia por inteiro — da interface que o usuário vê até a API, o banco de dados, a rede e a máquina que mantém tudo funcionando.
 
-Atualmente tenho estudado principalmente desenvolvimento Back-end e Front-end,
-bancos de dados, redes e infraestrutura.
+Hoje estudo e desenvolvo principalmente com **Back-end, Front-end, APIs, bancos de dados e estruturas de dados**, além de ter experiência prática com **suporte técnico, hardware, Windows, redes e infraestrutura de TI**. Também tenho familiaridade com **Linux**, principalmente no uso do sistema, terminal e ambiente de desenvolvimento.
+
+Não gosto muito de ficar preso a uma única área. Se alguma coisa chama minha atenção, provavelmente vou querer descobrir como funciona — mesmo que isso termine em alguma curiosidade completamente aleatória às 2 da manhã.
+
+---
+
+### Between code and cables
+
+I like understanding technology as a whole — from the user-facing interface to the API, database, network, and the machine that keeps everything running.
+
+I mainly study and build things involving **Back-end, Front-end, APIs, databases, and data structures**, while also having hands-on experience with **technical support, hardware, Windows, networking, and IT infrastructure**. I’m also familiar with **Linux**, especially system usage, the terminal, and development environments.
+
+I don’t really like being stuck in just one area. If something catches my attention, I’ll probably want to figure out how it works — even if that turns into some completely random curiosity at 2 AM.
+
+<br clear="both">
 
 ---
 
