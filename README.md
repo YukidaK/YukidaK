@@ -15,15 +15,6 @@
   alt="Butterfly Curve sendo desenhada"
 />
 
-### Entre código e cabos
-
-Gosto de entender tecnologia por inteiro — da interface que o usuário vê até a API, o banco de dados, a rede e a máquina que mantém tudo funcionando.
-
-Hoje estudo e desenvolvo principalmente com **Back-end, Front-end, APIs, bancos de dados e estruturas de dados**, além de ter experiência prática com **suporte técnico, hardware, Windows, redes e infraestrutura de TI**. Também tenho familiaridade com **Linux**, principalmente no uso do sistema, terminal e ambiente de desenvolvimento.
-
-Não gosto muito de ficar preso a uma única área. Se alguma coisa chama minha atenção, provavelmente vou querer descobrir como funciona — mesmo que isso termine em alguma curiosidade completamente aleatória às 2 da manhã.
-
----
 
 ### Between code and cables
 
