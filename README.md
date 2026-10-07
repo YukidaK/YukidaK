@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.gif" width="700" alt="Banner do perfil">
 
-# Yukida
+# Yuuki Kamiya
 
 ### Ciência da Computação • Desenvolvimento • Infraestrutura • Curiosidades aleatórias
 
